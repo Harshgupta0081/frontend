@@ -1,6 +1,4 @@
-# METACRAFTERS ETH + AVAX PROOF: Intermediate EVM Course
-## MODULE: Smart Contract Management - ETH + AVAX
-## DAPP NAME: SIMPLEDAPP FRONTEND
+# DAPP NAME: SIMPLEDAPP FRONTEND
 
 This program is a final assesment for the above mentioned module and as required is a frontend code that communicates with a smart contract through ethers.Js, it interacts with 3 different functions on the smart contract.
 
@@ -8,33 +6,19 @@ This program is a final assesment for the above mentioned module and as required
 ## Description
 This Complete Dapp is a simple implementation of a the token transfer dapp where users register, mint 100 tokens to them selves for free then are able to transfer these tokens to one another as long as the receiver is also registered from this frontend.
 
-
-## CONTRACT ADDRESSES (GOERLI) AND LIVE LINK
-- SIMPLEDAPP CONTRACT ADDRESSES: [0xfEC609820171F36c92e8C20311fAD75De6a5d681](https://goerli.etherscan.io/address/0xfec609820171f36c92e8c20311fad75de6a5d681)
-
-- LIVE LINK: [LIVE WEBSITE](https://metacrafters-avax-mod-1-task-2.vercel.app/)
-
-
 ## Executing program
-#### STEP 1
-- NAVIGATE TO THIS PROJECT WEBSITE VIA THIS [LINK](https://metacrafters-avax-mod-1-task-2.vercel.app/)
 
-#### STEP 2
+#### STEP 1
 - CONNECT YOUR METAMASK WALLET AND IF NECCESARY CHANGE YOUR NETWORK TO GOERLI.
 
-#### STEP 3
+#### STEP 2
 - REGISTER YOURSELF BY FILLING THE REGISTRATION FORM WITH YOUR USERNAME THEN CLICKING THE REGISTER BUTTON.
 
-#### STEP 4
+#### STEP 3
 - MINT TOKENS TO YOURSELF BY CLICKING ON THE MINT BUTTON IN THE MINT SECTION.
 
-#### STEP 5
+#### STEP 4
 - TRANSFER TOKENS WITHIN FRIENDS AS LONG AS THEY ARE ALSO REGISTERED ON THE SMARTCONTRACT THROUGH THE TRANSFER SECTION.
-
-
-## Authors
-Idogwu Chinonso
-[@metacraftersio](https://twitter.com/ChinonsoIdogwu)
 
 
 ## License
